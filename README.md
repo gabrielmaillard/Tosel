@@ -1,3 +1,5 @@
+Ce fichier a été généré automatiquement à partir du script python intitulé "README.py"
+
 
 ### Exercice 1
 ![Exercice 1](Exercices/Exercice%201.JPG)

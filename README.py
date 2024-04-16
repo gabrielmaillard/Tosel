@@ -1,7 +1,22 @@
 import os
 import urllib.parse
+import subprocess
 
-def generate_readme():
+def push():
+    repository_directory = os.getcwd()
+
+    subprocess.run(["git", "add", "*"], cwd=repository_directory)
+    subprocess.run(["git", "commit", "-m", "New exercises"], cwd=repository_directory)
+    subprocess.run(["git", "push"], cwd=repository_directory)
+
+def generate_readme(FILE):
+    header = 'Ce fichier a été généré automatiquement à partir du script python intitulé "README.py"\n\n'
+
+    with open(FILE, "w") as readme_file:
+        readme_file.write(header)
+        readme_file.write(insert_exercises(FILE))
+
+def insert_exercises(FILE):
     exercises_folder = "Exercices"
     readme_content = ""
 
@@ -22,7 +37,7 @@ def generate_readme():
             exercise_images += f"![Exercice {exercise_number}]({exercise_image_url})\n"
         readme_content += exercise_title + exercise_images
 
-    with open("README.md", "w") as readme_file:
-        readme_file.write(readme_content)
+    return readme_content
 
-generate_readme()
+generate_readme("README.md")
+push()
