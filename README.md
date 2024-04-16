@@ -80,3 +80,59 @@ Ce fichier a été généré et envoyé automatiquement à partir du script python inti
 ### Exercice 22
 ![Exercice 22](Exercices/Exercice%2022%20%231.JPG)
 ![Exercice 22](Exercices/Exercice%2022%20%232.JPG)
+
+### Exercice 23
+![Exercice 23](Exercices/Exercice%2023%20%231.JPG)
+![Exercice 23](Exercices/Exercice%2023%20%232.JPG)
+
+### Exercice 24
+![Exercice 24](Exercices/Exercice%2024%20%231.JPG)
+![Exercice 24](Exercices/Exercice%2024%20%232.JPG)
+
+### Exercice 25
+![Exercice 25](Exercices/Exercice%2025.JPG)
+
+### Exercice 26
+![Exercice 26](Exercices/Exercice%2026.JPG)
+
+### Exercice 27
+![Exercice 27](Exercices/Exercice%2027.JPG)
+
+### Exercice 28
+![Exercice 28](Exercices/Exercice%2028.JPG)
+
+### Exercice 29
+![Exercice 29](Exercices/Exercice%2029%20%231.JPG)
+![Exercice 29](Exercices/Exercice%2029%20%232.JPG)
+
+### Exercice 30
+![Exercice 30](Exercices/Exercice%2030.JPG)
+
+### Exercice 31
+![Exercice 31](Exercices/Exercice%2031%20%231.JPG)
+![Exercice 31](Exercices/Exercice%2031%20%232.JPG)
+
+### Exercice 32
+![Exercice 32](Exercices/Exercice%2032.JPG)
+
+### Exercice 33
+![Exercice 33](Exercices/Exercice%2033.JPG)
+
+### Exercice 34
+![Exercice 34](Exercices/Exercice%2034.JPG)
+
+### Exercice 35
+![Exercice 35](Exercices/Exercice%2035%20%231.JPG)
+![Exercice 35](Exercices/Exercice%2035%20%232.JPG)
+
+### Exercice 36
+![Exercice 36](Exercices/Exercice%2036.JPG)
+
+### Exercice 37
+![Exercice 37](Exercices/Exercice%2037.JPG)
+
+### Exercice 38
+![Exercice 38](Exercices/Exercice%2038.JPG)
+
+### Exercice 39
+![Exercice 39](Exercices/Exercice%2039%20%231.JPG)
