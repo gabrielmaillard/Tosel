@@ -17,7 +17,7 @@ def generate_readme():
         exercise_number = filename.split(" ")[1].split(".")[0]
         exercise_title = f"### Exercice {exercise_number}\n"
         exercise_image_url = urllib.parse.quote(f"Exercices/{filename}")
-        exercise_image = f"![Exercice {exercise_number}](Exercices/{exercise_image_url})\n"
+        exercise_image = f"![Exercice {exercise_number}]({exercise_image_url})\n\n"
         readme_content += exercise_title + exercise_image
 
     with open("README.md", "w") as readme_file:
