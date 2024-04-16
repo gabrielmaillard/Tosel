@@ -55,3 +55,28 @@ Ce fichier a été généré et envoyé automatiquement à partir du script python inti
 ![Exercice 15](Exercices/Exercice%2015%20%231.JPG)
 ![Exercice 15](Exercices/Exercice%2015%20%232.JPG)
 ![Exercice 15](Exercices/Exercice%2015%20%233.JPG)
+
+### Exercice 16
+![Exercice 16](Exercices/Exercice%2016.JPG)
+
+### Exercice 17
+![Exercice 17](Exercices/Exercice%2017%20%231.JPG)
+![Exercice 17](Exercices/Exercice%2017%20%232.JPG)
+
+### Exercice 18
+![Exercice 18](Exercices/Exercice%2018%20%231.JPG)
+![Exercice 18](Exercices/Exercice%2018%20%232.JPG)
+
+### Exercice 19
+![Exercice 19](Exercices/Exercice%2019.JPG)
+
+### Exercice 20
+![Exercice 20](Exercices/Exercice%2020%20%231.JPG)
+![Exercice 20](Exercices/Exercice%2020%20%232.JPG)
+
+### Exercice 21
+![Exercice 21](Exercices/Exercice%2021.JPG)
+
+### Exercice 22
+![Exercice 22](Exercices/Exercice%2022%20%231.JPG)
+![Exercice 22](Exercices/Exercice%2022%20%232.JPG)
