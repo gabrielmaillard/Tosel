@@ -10,7 +10,7 @@ def push():
     subprocess.run(["git", "push"], cwd=repository_directory)
 
 def generate_readme(FILE):
-    header = 'Ce fichier a été généré et envoyé automatiquement à partir du script python intitulé "README.py.\nL\'exercice 14 est accompagné d\'un script. (cf. Exercice 14.py)"\n\n'
+    header = 'Ce fichier a été généré et envoyé automatiquement à partir du script python intitulé "README.py".\nL\'exercice 14 est accompagné d\'un script. (cf. Exercice 14.py)\n\n'
 
     with open(FILE, "w") as readme_file:
         readme_file.write(header)
