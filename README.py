@@ -35,7 +35,7 @@ def insert_exercises(FILE):
     readme_content += "\n\n\n"
 
     for exercise_number, filenames in sorted(exercises.items(), key=lambda x: int(x[0])):
-        exercise_title = f"\n###Exercice {exercise_number}\n"
+        exercise_title = f"\n### Exercice {exercise_number}\n"
         exercise_images = ""
         for filename in filenames:
             exercise_image_url = urllib.parse.quote(f"Exercices/{filename}")
