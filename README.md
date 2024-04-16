@@ -1,4 +1,5 @@
-Ce fichier a été généré et envoyé automatiquement à partir du script python intitulé "README.py"
+Ce fichier a été généré et envoyé automatiquement à partir du script python intitulé "README.py.
+L'exercice 14 est accompagné d'un script. (cf. Exercice 14.py)"
 
 
 ### Exercice 1
