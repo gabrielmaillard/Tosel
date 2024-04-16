@@ -30,7 +30,7 @@ def insert_exercises(FILE):
             exercises[exercise_number].append(filename)
     
     for exercise_number, filenames in sorted(exercises.items(), key=lambda x: int(x[0])):
-        readme_content += f"[Exercice {exercise_number}](#exercice{exercise_number})\n"
+        readme_content += f"[Exercice {exercise_number}](#exercice-{exercise_number})\n"
 
     readme_content += "\n\n\n"
 
