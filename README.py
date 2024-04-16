@@ -28,9 +28,14 @@ def insert_exercises(FILE):
             if exercise_number not in exercises:
                 exercises[exercise_number] = []
             exercises[exercise_number].append(filename)
+    
+    for exercise_number, filenames in sorted(exercises.items(), key=lambda x: int(x[0])):
+        readme_content += f"[Go to Exercise {exercise_number}](#Exercice-{exercise_number})"
+
+    readme_content += "\n\n\n"
 
     for exercise_number, filenames in sorted(exercises.items(), key=lambda x: int(x[0])):
-        exercise_title = f"\n### Exercice {exercise_number}\n"
+        exercise_title = f"\n###Exercice {exercise_number}\n"
         exercise_images = ""
         for filename in filenames:
             exercise_image_url = urllib.parse.quote(f"Exercices/{filename}")
