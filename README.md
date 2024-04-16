@@ -135,4 +135,7 @@ Ce fichier a été généré et envoyé automatiquement à partir du script python inti
 ![Exercice 38](Exercices/Exercice%2038.JPG)
 
 ### Exercice 39
-![Exercice 39](Exercices/Exercice%2039%20%231.JPG)
+![Exercice 39](Exercices/Exercice%2039.JPG)
+
+### Exercice 40
+![Exercice 40](Exercices/Exercice%2040%20%231.JPG)
