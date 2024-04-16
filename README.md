@@ -46,3 +46,12 @@ Ce fichier a été généré et envoyé automatiquement à partir du script python inti
 ### Exercice 13
 ![Exercice 13](Exercices/Exercice%2013%20%231.JPG)
 ![Exercice 13](Exercices/Exercice%2013%20%232.JPG)
+
+### Exercice 14
+![Exercice 14](Exercices/Exercice%2014%20%231.JPG)
+![Exercice 14](Exercices/Exercice%2014%20%232.JPG)
+
+### Exercice 15
+![Exercice 15](Exercices/Exercice%2015%20%231.JPG)
+![Exercice 15](Exercices/Exercice%2015%20%232.JPG)
+![Exercice 15](Exercices/Exercice%2015%20%233.JPG)
