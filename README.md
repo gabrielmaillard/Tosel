@@ -186,3 +186,4 @@ NB : Je réalise les exercices suivants. Une fois par semaine je mets à jour cett
 
 ### Exercice 40
 ![Exercice 40](Exercices/Exercice%2040%20%231.JPG)
+![Exercice 40](Exercices/Exercice%2040%20%232.JPG)
