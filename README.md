@@ -1,7 +1,7 @@
-Ce fichier a été généré et envoyé automatiquement à partir du script python intitulé "README.py".
-L'exercice 14 est accompagné d'un script. (cf. Exercice 14.py)
+Ce fichier a Ã©tÃ© gÃ©nÃ©rÃ© et envoyÃ© automatiquement Ã  partir du script python intitulÃ© "README.py".
+L'exercice 14 est accompagnÃ© d'un script. (cf. Exercice 14.py)
 
-NB : Je réalise les exercices suivants. Une fois par semaine je mets à jour cette page.
+NB : Je rÃ©alise les exercices suivants. Une fois par semaine, je mets Ã  jour cette page.
 
 
 * [Exercice 1](#exercice-1)
