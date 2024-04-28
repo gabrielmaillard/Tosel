@@ -29,12 +29,14 @@ def insert_exercises(FILE):
                 exercises[exercise_number] = []
             exercises[exercise_number].append(filename)
     
-    for exercise_number, filenames in sorted(exercises.items(), key=lambda x: int(x[0])):
+    sorted_exercises = sorted(exercises.items(), key=lambda x: int(x[0]))
+
+    for exercise_number, filenames in sorted_exercises:
         readme_content += f"* [Exercice {exercise_number}](#exercice-{exercise_number})\n"
 
     readme_content += "\n\n\n"
 
-    for exercise_number, filenames in sorted(exercises.items(), key=lambda x: int(x[0])):
+    for exercise_number, filenames in sorted_exercises:
         exercise_title = f"\n### Exercice {exercise_number}\n"
         exercise_images = ""
         for filename in filenames:
