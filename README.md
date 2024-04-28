@@ -1,7 +1,7 @@
-Ce fichier a √©t√© g√©n√©r√© et envoy√© automatiquement √† partir du script python intitul√© "README.py".
-L'exercice 14 est accompagn√© d'un script. (cf. Exercice 14.py)
+Ce fichier a ÈtÈ gÈnÈrÈ et envoyÈ automatiquement ‡ partir du script python intitulÈ "README.py".
+L'exercice 14 est accompagnÈ d'un script. (cf. Exercice 14.py)
 
-NB : Je r√©alise les exercices suivants. Une fois par semaine, je mets √† jour cette page.
+NB : Je rÈalise les exercices suivants. Une fois par semaine, je mets ‡ jour cette page.
 
 
 * [Exercice 1](#exercice-1)
@@ -44,6 +44,10 @@ NB : Je r√©alise les exercices suivants. Une fois par semaine, je mets √† jour c
 * [Exercice 38](#exercice-38)
 * [Exercice 39](#exercice-39)
 * [Exercice 40](#exercice-40)
+* [Exercice 41](#exercice-41)
+* [Exercice 42](#exercice-42)
+* [Exercice 43](#exercice-43)
+* [Exercice 44](#exercice-44)
 
 
 
@@ -187,3 +191,17 @@ NB : Je r√©alise les exercices suivants. Une fois par semaine, je mets √† jour c
 ### Exercice 40
 ![Exercice 40](Exercices/Exercice%2040%20%231.JPG)
 ![Exercice 40](Exercices/Exercice%2040%20%232.JPG)
+
+### Exercice 41
+![Exercice 41](Exercices/Exercice%2041%20%231.JPG)
+![Exercice 41](Exercices/Exercice%2041%20%232.JPG)
+
+### Exercice 42
+![Exercice 42](Exercices/Exercice%2042.JPG)
+
+### Exercice 43
+![Exercice 43](Exercices/Exercice%2043%20%231.JPG)
+![Exercice 43](Exercices/Exercice%2043%20%232.JPG)
+
+### Exercice 44
+![Exercice 44](Exercices/Exercice%2044%20%231.JPG)
