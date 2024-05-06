@@ -48,6 +48,10 @@ NB : Je réalise les exercices suivants. Une fois par semaine, je mets à jour cet
 * [Exercice 42](#exercice-42)
 * [Exercice 43](#exercice-43)
 * [Exercice 44](#exercice-44)
+* [Exercice 45](#exercice-45)
+* [Exercice 46](#exercice-46)
+* [Exercice 47](#exercice-47)
+* [Exercice 48](#exercice-48)
 
 
 
@@ -205,3 +209,20 @@ NB : Je réalise les exercices suivants. Une fois par semaine, je mets à jour cet
 
 ### Exercice 44
 ![Exercice 44](Exercices/Exercice%2044%20%231.JPG)
+![Exercice 44](Exercices/Exercice%2044%20%232.JPG)
+
+### Exercice 45
+![Exercice 45](Exercices/Exercice%2045%20%231.JPG)
+![Exercice 45](Exercices/Exercice%2045%20%232.JPG)
+
+### Exercice 46
+![Exercice 46](Exercices/Exercice%2046%20%231.JPG)
+![Exercice 46](Exercices/Exercice%2046%20%232.JPG)
+
+### Exercice 47
+![Exercice 47](Exercices/Exercice%2047%20%231.JPG)
+![Exercice 47](Exercices/Exercice%2047%20%232.JPG)
+![Exercice 47](Exercices/Exercice%2047%20%233.JPG)
+
+### Exercice 48
+![Exercice 48](Exercices/Exercice%2048%20%231.JPG)
