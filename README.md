@@ -52,6 +52,18 @@ NB : Je réalise les exercices suivants. Une fois par semaine, je mets à jour cet
 * [Exercice 46](#exercice-46)
 * [Exercice 47](#exercice-47)
 * [Exercice 48](#exercice-48)
+* [Exercice 49](#exercice-49)
+* [Exercice 50](#exercice-50)
+* [Exercice 51](#exercice-51)
+* [Exercice 52](#exercice-52)
+* [Exercice 53](#exercice-53)
+* [Exercice 54](#exercice-54)
+* [Exercice 55](#exercice-55)
+* [Exercice 56](#exercice-56)
+* [Exercice 57](#exercice-57)
+* [Exercice 58](#exercice-58)
+* [Exercice 59](#exercice-59)
+* [Exercice 60](#exercice-60)
 
 
 
@@ -226,3 +238,44 @@ NB : Je réalise les exercices suivants. Une fois par semaine, je mets à jour cet
 
 ### Exercice 48
 ![Exercice 48](Exercices/Exercice%2048%20%231.JPG)
+![Exercice 48](Exercices/Exercice%2048%20%232.JPG)
+
+### Exercice 49
+![Exercice 49](Exercices/Exercice%2049.JPG)
+
+### Exercice 50
+![Exercice 50](Exercices/Exercice%2050.JPG)
+
+### Exercice 51
+![Exercice 51](Exercices/Exercice%2051%20%231.JPG)
+![Exercice 51](Exercices/Exercice%2051%20%232.JPG)
+
+### Exercice 52
+![Exercice 52](Exercices/Exercice%2052%20%231.JPG)
+![Exercice 52](Exercices/Exercice%2052%20%232.JPG)
+
+### Exercice 53
+![Exercice 53](Exercices/Exercice%2053.JPG)
+
+### Exercice 54
+![Exercice 54](Exercices/Exercice%2054.JPG)
+
+### Exercice 55
+![Exercice 55](Exercices/Exercice%2055.JPG)
+
+### Exercice 56
+![Exercice 56](Exercices/Exercice%2056%20%231.JPG)
+![Exercice 56](Exercices/Exercice%2056%20%232.JPG)
+
+### Exercice 57
+![Exercice 57](Exercices/Exercice%2057%20%231.JPG)
+![Exercice 57](Exercices/Exercice%2057%20%232.JPG)
+
+### Exercice 58
+![Exercice 58](Exercices/Exercice%2058.JPG)
+
+### Exercice 59
+![Exercice 59](Exercices/Exercice%2059.JPG)
+
+### Exercice 60
+![Exercice 60](Exercices/Exercice%2060.JPG)
