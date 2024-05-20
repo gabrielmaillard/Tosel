@@ -64,6 +64,30 @@ NB : Je réalise les exercices suivants. Une fois par semaine, je mets à jour cet
 * [Exercice 58](#exercice-58)
 * [Exercice 59](#exercice-59)
 * [Exercice 60](#exercice-60)
+* [Exercice 61](#exercice-61)
+* [Exercice 62](#exercice-62)
+* [Exercice 63](#exercice-63)
+* [Exercice 64](#exercice-64)
+* [Exercice 65](#exercice-65)
+* [Exercice 66](#exercice-66)
+* [Exercice 67](#exercice-67)
+* [Exercice 68](#exercice-68)
+* [Exercice 69](#exercice-69)
+* [Exercice 70](#exercice-70)
+* [Exercice 71](#exercice-71)
+* [Exercice 72](#exercice-72)
+* [Exercice 73](#exercice-73)
+* [Exercice 74](#exercice-74)
+* [Exercice 75](#exercice-75)
+* [Exercice 76](#exercice-76)
+* [Exercice 77](#exercice-77)
+* [Exercice 78](#exercice-78)
+* [Exercice 79](#exercice-79)
+* [Exercice 80](#exercice-80)
+* [Exercice 81](#exercice-81)
+* [Exercice 82](#exercice-82)
+* [Exercice 83](#exercice-83)
+* [Exercice 84](#exercice-84)
 
 
 
@@ -279,3 +303,86 @@ NB : Je réalise les exercices suivants. Une fois par semaine, je mets à jour cet
 
 ### Exercice 60
 ![Exercice 60](Exercices/Exercice%2060.JPG)
+
+### Exercice 61
+![Exercice 61](Exercices/Exercice%2061%20%231.JPG)
+![Exercice 61](Exercices/Exercice%2061%20%232.JPG)
+
+### Exercice 62
+![Exercice 62](Exercices/Exercice%2062.JPG)
+
+### Exercice 63
+![Exercice 63](Exercices/Exercice%2063.JPG)
+
+### Exercice 64
+![Exercice 64](Exercices/Exercice%2064.JPG)
+
+### Exercice 65
+![Exercice 65](Exercices/Exercice%2065.JPG)
+
+### Exercice 66
+![Exercice 66](Exercices/Exercice%2066.JPG)
+
+### Exercice 67
+![Exercice 67](Exercices/Exercice%2067%20%231.JPG)
+![Exercice 67](Exercices/Exercice%2067%20%232.JPG)
+
+### Exercice 68
+![Exercice 68](Exercices/Exercice%2068%20%231.JPG)
+![Exercice 68](Exercices/Exercice%2068%20%232.JPG)
+![Exercice 68](Exercices/Exercice%2068%20%233.JPG)
+
+### Exercice 69
+![Exercice 69](Exercices/Exercice%2069.JPG)
+
+### Exercice 70
+![Exercice 70](Exercices/Exercice%2070.JPG)
+
+### Exercice 71
+![Exercice 71](Exercices/Exercice%2071.JPG)
+
+### Exercice 72
+![Exercice 72](Exercices/Exercice%2072%20%231.JPG)
+![Exercice 72](Exercices/Exercice%2072%20%232.JPG)
+![Exercice 72](Exercices/Exercice%2072%20%233.JPG)
+
+### Exercice 73
+![Exercice 73](Exercices/Exercice%2073.JPG)
+
+### Exercice 74
+![Exercice 74](Exercices/Exercice%2074%20%231.JPG)
+![Exercice 74](Exercices/Exercice%2074%20%232.JPG)
+
+### Exercice 75
+![Exercice 75](Exercices/Exercice%2075.JPG)
+
+### Exercice 76
+![Exercice 76](Exercices/Exercice%2076.JPG)
+
+### Exercice 77
+![Exercice 77](Exercices/Exercice%2077%20%231.JPG)
+![Exercice 77](Exercices/Exercice%2077%20%232.JPG)
+
+### Exercice 78
+![Exercice 78](Exercices/Exercice%2078.JPG)
+
+### Exercice 79
+![Exercice 79](Exercices/Exercice%2079.JPG)
+
+### Exercice 80
+![Exercice 80](Exercices/Exercice%2080%20%231.JPG)
+![Exercice 80](Exercices/Exercice%2080%20%232.JPG)
+
+### Exercice 81
+![Exercice 81](Exercices/Exercice%2081%20%231.JPG)
+![Exercice 81](Exercices/Exercice%2081%20%232.JPG)
+
+### Exercice 82
+![Exercice 82](Exercices/Exercice%2082%20%231.JPG)
+![Exercice 82](Exercices/Exercice%2082%20%232.JPG)
+
+### Exercice 83
+![Exercice 83](Exercices/Exercice%2083.JPG)
+
+### Exercice 84
+![Exercice 84](Exercices/Exercice%2084%20%231.JPG)

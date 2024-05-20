@@ -6,7 +6,7 @@ def push():
     repository_directory = os.getcwd()
 
     subprocess.run(["git", "add", "*"], cwd=repository_directory)
-    subprocess.run(["git", "commit", "-m", "Exercices 48 à 60"], cwd=repository_directory)
+    subprocess.run(["git", "commit", "-m", "Exercices 61 à 83"], cwd=repository_directory)
     subprocess.run(["git", "push"], cwd=repository_directory)
 
 def generate_readme(FILE):
